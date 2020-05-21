@@ -1,0 +1,20 @@
+plugins {
+	id 'java'
+}
+
+group 'lv.kaneps.voxel3d'
+version '1.0-SNAPSHOT'
+
+allprojects {
+	repositories {
+		mavenCentral()
+	}
+}
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+
+}
